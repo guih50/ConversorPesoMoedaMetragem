@@ -1,0 +1,20 @@
+.linha{
+    display: flex;
+    margin-top: 40px;
+    justify-content: space-around;
+}
+
+h1{
+    text-align: center;
+}
+
+.App{
+    margin: auto;
+    max-width: 900px;
+}
+
+.conteudo {
+    position: absolute;
+    top: 140px;
+    left: 400px;
+}

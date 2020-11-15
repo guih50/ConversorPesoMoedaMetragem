@@ -1,0 +1,19 @@
+.linha1{
+    display: flex;
+    margin-top: 40px;
+    justify-content: space-around;
+}
+
+h1{
+    text-align: center;
+}
+
+.App1{
+    margin: auto;
+    max-width: 900px;
+}
+
+.conteudo {
+    position: absolute;
+    left: 400px;
+}
